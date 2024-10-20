@@ -1,1 +1,1 @@
-# Prompt-Engineering-
+Prompt engineering refers to the process of designing and crafting prompts to effectively interact with AI models, particularly natural language models like GPT. Since AI models generate responses based on the given input, a well-structured prompt can help achieve desired outputs. This technique is important for improving the accuracy, relevance, and creativity of AI responses.
